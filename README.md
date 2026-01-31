@@ -21,4 +21,5 @@ An AI agent that reads meeting notes and automatically extracts tasks and create
 - Agentic Workflow
 
 ## Demo
-Video demonstration: https://drive.google.com/file/d/1seM9xtY5kxBLB4b3MnkjcnC-72G07RdD/view?t=9
+Video demonstration: https://drive.google.com/file/d/1seM9xtY5kxBLB4b3MnkjcnC-72G07RdD/view?usp=sharing
+
